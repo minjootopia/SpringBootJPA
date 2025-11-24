@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringStarter251121Application {
+public class SpringBootJPAApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringStarter251121Application.class, args);
+		SpringApplication.run(SpringBootJPAApplication.class, args);
 	}
-
 }
